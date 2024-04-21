@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anvishaa
-- 👀 I’m interested in web dev
+- 👀 I’m interested in app dev
 - 🌱 I’m currently learning cpp
 
 
