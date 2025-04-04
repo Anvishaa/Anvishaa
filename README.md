@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anvishaa
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning cpp
+- 👀 I’m interested in web dev, frontend more than backend 
+- 🌱 I’m currently exploring data science
+- # worked with node js, react js, MERN stack
 
 
 <!---
