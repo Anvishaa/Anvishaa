@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anvisha Dekate</h1>
 <h3 align="center">Aspiring developer exploring web dev, AI, and data.</h3>
 
-- 🌱 I’m currently learning **DBMS (Normalization, SQL), AI/ML with a focus on Explainable AI**
+- 🌱 I’m currently exploring **DBMS (Normalization, SQL), AI/ML with a focus on Explainable AI**
 
 - 📫 How to reach me **dekanvisha@gmail.com**
 
